@@ -1,2 +1,3 @@
 # Runner
-working on a game using python library pygame
+Started working on a game using python library called pygame.
+
